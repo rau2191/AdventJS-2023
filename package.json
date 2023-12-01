@@ -1,0 +1,15 @@
+{
+    "name": "adventjs-2023",
+    "version": "1.0.0",
+    "description": "Solución a los retos del calendario de Adviento del año 2022 (AdventJS - midudev) ",
+    "author": "Raúl Maestre Gómez <rau2191@hotmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rau2191/AdventJS-2023.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rau2191/AdventJS-2023/issues"
+    },
+    "homepage": "https://github.com/rau2191/AdventJS-2023",
+    "license": "MIT"
+}
